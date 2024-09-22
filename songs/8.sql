@@ -1,0 +1,1 @@
+SELECT name AS song_collaborations FROM songs WHERE name LIKE '%feat%';

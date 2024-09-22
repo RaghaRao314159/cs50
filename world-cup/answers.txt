@@ -1,0 +1,19 @@
+Times:
+
+10 simulations: 0m0.030s
+100 simulations: 0m0.029s
+1000 simulations: 0m0.040s
+10000 simulations: 0m0.112s
+100000 simulations: 0m0.763s
+1000000 simulations: 0m7.464s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+With 100 and lower number of simulations, the percentage chance of each team is sufficiently dofferent from the asymptotic values and Uruguay is not represented sometimes as there are too few simulations to capture the winning chances of Uruguay.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+
+10000 as it seems like the predictions stabilized to the decimal point after 10000 simulatons.

@@ -1,0 +1,18 @@
+1. The auras can be categorised as such using the mean values of a single person's playlist.
+
+Purple: High danceability (80 percentile)
+Green: valence aligns with the general population's mean
+Pink: High valence (80 percentile)
+Orange: High energy (80 percentile)
+Yellow: Every value is in the 65th percentile.
+Blue: Extreme ends of valence (80 percentile)
+
+2. First and foremost, this data does not consider the total hearing time of the songs. Some songs may be listened to for many
+more hours but not properly accounted for when they are simply inserted into a top 100 list. Hearing time should be included as a weighted
+metric when calculating songs,
+
+This method may be succeptible to the songs that became popular in that year. The latest trend of 'pop' songs for example
+might influence the type of songs users listen to, increasing the average danceability of a user. Another issue is that many
+highly dancable songs are more commonly consumed on other visual platfors like tiktok or youtube while the mellow songs are
+preferrebly consumed on spotify. This again introduces a bias. To solve these issues, one might have to consider data for more
+than a year.
